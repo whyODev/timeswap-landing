@@ -221,24 +221,6 @@ export default {
           ],
         },
         {
-          image: 'jerry',
-          name: 'Jerry',
-          lname: 'Wong',
-          designation: 'Full Stack Developer',
-          description:
-            'Not Degen | Little Dev | Half Trader | Lib Finder | 今日本語専攻中 | Fatboy (try to lose weight)',
-          socials: [
-            {
-              link: 'https://x.com/zetai_moumantai',
-              image: 'twitter',
-            },
-            {
-              link: 'https://www.linkedin.com/in/jerry-wong-676b6b284/',
-              image: 'linkedin',
-            },
-          ],
-        },
-        {
           image: 'nitish',
           name: 'Nitish',
           lname: 'Kumar',
