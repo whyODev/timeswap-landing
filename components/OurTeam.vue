@@ -237,6 +237,19 @@ export default {
             },
           ],
         },
+        {
+          image: 'yuvraj',
+          name: 'Yuvraj',
+          lname: 'Singh',
+          designation: 'Frontend Developer',
+          description: 'Frontend Dev | Web3 explorer',
+          socials: [
+            {
+              link: 'https://t.me/a2dopler',
+              image: 'telegram',
+            },
+          ],
+        },
       ],
       advisors: [
         {
